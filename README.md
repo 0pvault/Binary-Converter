@@ -42,7 +42,7 @@ The binary number `01010111` corresponds to decimal `87`, which represents the A
 3. Run the script:
 
 ```
-python binary_to_ascii.py
+python binary_converter.py
 ```
 
 ## Learning Objectives
