@@ -2,6 +2,8 @@
 
 A simple Python script that converts an 8-bit binary number into its decimal value and corresponding ASCII character.
 
+https://github.com/0pvault/Binary-Converter
+
 ## Features
 
 - Convert binary numbers to decimal.
